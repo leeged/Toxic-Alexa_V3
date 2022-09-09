@@ -135,7 +135,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Toxic-Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TURBOHYPER)
+  [![Toxic-Turbo](https://github.com/.png?size=100)](https:/leeged/github.com/TURBOHYPER)
     
 [Toxic-Turbo](https://github.com/TURBOHYPER)
   </div>
